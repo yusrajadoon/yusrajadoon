@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @yusrajadoon<br>👀 I’m interested in software development, artificial intelligence, and cybersecurity.<br>🌱 I’m currently learning advanced data structures and algorithms.<br>💞️ I’m looking to collaborate on open source projects related to web development or machine learning.<br>📫 How to reach me: Drop me an email at yusrajadoon586@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time!
+👋 Hi, I’m @yusrajadoon
+👀 I’m interested in web development, particularly frontend technologies like React.js.
+🌱 I’m currently learning React.js to enhance my frontend development skills.
+💞️ I’m looking to collaborate on projects involving React.js or frontend development.
+📫 How to reach meFeel free to email me at yusrajadoon586@gmail.com
+😄 Pronouns: She/her
+⚡  In a world of pixels, I'm the architect of digital dreams.
 
 
 ## 🌐 Socials:
