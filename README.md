@@ -1,12 +1,10 @@
-# 💫 About Me:
 👋 Hi, I’m @yusrajadoon
-👀 I’m interested in web development, particularly frontend technologies like React.js.
-🌱 I’m currently learning React.js to enhance my frontend development skills.
-💞️ I’m looking to collaborate on projects involving React.js or frontend development.
-📫 How to reach meFeel free to email me at yusrajadoon586@gmail.com
+👀 I’m passionate about web development, particularly full-stack technologies with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js).
+🌱 I’m currently enhancing my skills in full-stack development and exploring advanced features of React.js and Node.js.
+💞️ I’m looking to collaborate on projects involving MERN stack development or innovative web applications.
+📫 Feel free to email me at yusrajadoon586@gmail.com
 😄 Pronouns: She/her
-⚡  In a world of pixels, I'm the architect of digital dreams.
-
+⚡ Turning ideas into impactful digital solutions, one line of code at a time.
 
 ## 🌐 Socials:
 <a href="https://facebook.com/YusraJadoon" target="_blank">
